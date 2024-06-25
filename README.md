@@ -60,3 +60,5 @@ This project involves preparing data for a movie recommendation system by extrac
     This project demonstrates how to fetch, process, merge, clean, and export data from multiple APIs using Python and Pandas. It provides a foundational understanding for building more complex data pipelines and analysis tools in Python.
 
 Make sure to replace placeholders (like your_nyt_api_key_here and your_tmdb_api_key_here) with your actual API keys and adjust paths and repository names as needed. This README provides a structured guide for someone new to Python and data processing with APIs. If you have any further questions or need more details, feel free to ask!
+
+For any questions reach out to sandokan.stage@du.edu
